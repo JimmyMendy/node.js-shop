@@ -1,5 +1,5 @@
 node_modules
 nodemon.json
-packgage-lock.json
+package-lock.json
 Procfile
 access.log
